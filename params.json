@@ -1,0 +1,6 @@
+{
+  "name": "Hidden-markov-model",
+  "tagline": "This Code Implements the Hidden Markov Model (Monitoring and the Viterbi Algorithm) in Python on a Time series Data. ",
+  "body": "This Code Implements the Hidden Markov Model (Monitoring and the Viterbi Algorithm) in Python on a Time series Data. \r\nThe plot below shows the dataset used.\r\n\r\n![](https://github.com/deerishi/Hidden-Markov-Model/blob/master/mog1.png?raw=True)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
